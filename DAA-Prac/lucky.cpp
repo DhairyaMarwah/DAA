@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define bool int
-
+     
 bool isLucky(int n)
 {
 	static int counter = 2;

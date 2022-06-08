@@ -5,7 +5,7 @@ int main() {
 	// your code goes here
 	int n;
 	cin>>n;
-    int array[n];
+    int array[n];    
 	for(int i=0;i<n;i++){
         int num,tiles;
         cin>>num>>tiles;
